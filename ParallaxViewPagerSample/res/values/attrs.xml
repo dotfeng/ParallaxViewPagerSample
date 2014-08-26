@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colorPressed" format="color" />
+    <attr name="colorNormal" format="color" />
+    <attr name="colorProgress" format="color" />
+    <attr name="colorComplete" format="color" />
+    <attr name="colorError" format="color" />
+</resources>

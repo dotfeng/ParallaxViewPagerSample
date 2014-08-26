@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <color name="button_complete">#ff1da4a0</color>
+    <color name="button_error">#ff666666</color>
+    <color name="button_gray_normal">#ff95a5a6</color>
+    <color name="button_gray_pressed">#ff778485</color>
+    <color name="button_normal">#ff1da4a0</color>
+    <color name="button_pressed">#ff049b96</color>
+    <color name="button_progress">#ff049b96</color>
+    
+</resources>
